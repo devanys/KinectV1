@@ -52,4 +52,4 @@ README ini merupakan panduan langkah demi langkah untuk menginstal dan mengatur 
    - install kinect SDK
 
 2. **Verifikasi Koneksi**:
-   - Pastikan sensor dikenali oleh sistem operasi Anda. Pada Windows, memeriksa Device Manager untuk sensor Kinect.
+   - Pastikan sensor dikenali oleh sistem operasi. Pada Windows, memeriksa Device Manager untuk sensor Kinect.
